@@ -13,8 +13,3 @@
 	url = https://github.com/cran/slopeOP
 	shallow = true
 	registered = true
-[submodule "gfpop.data"]
-	path = gfpop.data
-	url = https://github.com/vrunge/gfpop.data
-	shallow = true
-	registered = false
