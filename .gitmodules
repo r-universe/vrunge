@@ -5,3 +5,6 @@
 [submodule "gfpop"]
 	path = gfpop
 	url = https://github.com/cran/gfpop
+[submodule "svpChange"]
+	path = svpChange
+	url = https://github.com/vrunge/svpchange
